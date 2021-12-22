@@ -1,0 +1,10 @@
+.user-select-input{
+width: 300px;
+
+}
+.user-dropdown{
+   position: absolute;               
+   top: 40%;   
+   left: 40%;                      
+   transform: translate(0, -50%) 
+}

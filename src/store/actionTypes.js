@@ -1,0 +1,9 @@
+export const GET_USERS = 'GET_USERS';
+export const SET_SELECTED_USER = 'SET_SELECTED_USER';
+export const GET_USER_READ = 'GET_USER_READ';
+export const POST_ONE_TO_ONE = 'POST_ONE_TO_ONE';
+export const POST_ONE_TO_MANY = 'POST_ONE_TO_MANY';
+export const GET_LIST = 'GET_LIST';
+export const GET_READ = 'GET_READ';
+export const POST_MESSAGE = 'POST_MESSAGE';
+export const GET_MESSAGE_LIST = 'GET_MESSAGE_LIST';
