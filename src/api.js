@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const token = 'Bearer k3DqhmyEmsLKbswJOLe6UylQ9R5X2SES';
+const token = 'Bearer token123';
 const BASE_URL ='https://assignment.bunq.com/api'
 const getUsersFromServer = () => 
   axios.get(BASE_URL+'/user', {
